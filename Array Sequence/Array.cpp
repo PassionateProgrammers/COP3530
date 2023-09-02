@@ -97,7 +97,7 @@ void deleteFirst() {
 void deleteLast() {
     deleteAt(numElements-1);
 }
-void PrintAll() {
+void printAll() {
 	     std::cout << "All the elements are: ";
 		 for (int i = 0; i < numElements; ++i) {
 			 std::cout << data[i] << " ";
@@ -179,7 +179,7 @@ int main() {
                 myArray.deleteLast();
                 break;
             case 7:
-                myArray.PrintAll();
+                myArray.printAll();
                 break;
             case 8:
                 std::cout << myArray.getArraySize() << std::endl;
