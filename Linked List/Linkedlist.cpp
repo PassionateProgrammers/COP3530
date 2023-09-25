@@ -1,4 +1,5 @@
 //Implementation of a singly linked list in C++
+//James Kirk
 
 #include <iostream>
 

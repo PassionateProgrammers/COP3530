@@ -1,3 +1,5 @@
+Single Linked List
+
 Time Complexity Analysis
 
 Initializing the list: This takes O(1) time because only one node is created in memory.
